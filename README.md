@@ -17,8 +17,8 @@ A simple and powerful Chrome extension that lets you change the color theme of a
 ## 📸 Screenshots
 
 ```markdown
-![Preview 1](screenshots/preview1.png)
-![Preview 2](screenshots/preview2.png)
+![Preview](https://github.com/kianmehhr-big/Theme-customizer/raw/main/screenshots/preview1.png)
+![Preview 2](https://github.com/kianmehhr-big/Theme-customizer/raw/main/screenshots/preview2.png)
 ```
 
 ---
