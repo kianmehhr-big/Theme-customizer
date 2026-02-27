@@ -3,7 +3,7 @@
 A simple and powerful Chrome extension that lets you change the color theme of any website to your favorite color.
 
 ---
-![Project Preview ](/screenshots/preview2.png)
+
 
 ## ✨ Features
 
@@ -14,9 +14,10 @@ A simple and powerful Chrome extension that lets you change the color theme of a
 - 🖱️ Simple and clean user interface
 
 ---
-## What can this Extention do? 
+## 📷Screenshots
 ![Project Preview ](/screenshots/preview1.png)
 <br/>
+![Project Preview ](/screenshots/preview2.png)
 
 
 ## 🚀 Installation (Easy)
